@@ -1,0 +1,218 @@
+{
+  "homepage": [
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "1",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "2",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "3",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "4",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "5",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "6",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "7",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "8",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "9",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "10",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "11",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "12",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    }
+  ],
+  "newarrival": [
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "1",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "2",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "3",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "4",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    }
+  ],
+  "purchasehistory": [
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "1",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "2",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "3",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "4",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "5",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "6",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "7",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Earthen Bottle",
+      "id": "8",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Nomad Tumbler",
+      "id": "9",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Focus Paper Refill",
+      "id": "10",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "11",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    },
+    {
+      "price": "$35",
+      "name": "Machined Mechanical Pencil",
+      "id": "12",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "productdetail": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: 'Black'. Need to add an extra pop of color to your outfit? Our white tee has you covered."
+    }
+  ],
+  "selectedproducts": [
+    {
+      "name": "Machined Mechanical Pencil",
+      "id": "11",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "price": "$35"
+    },
+    {
+      "name": "Nomad Tumbler",
+      "id": "9",
+      "image": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "price": "$35"
+    }
+  ]
+}
